@@ -1,0 +1,9 @@
+# Safe defensive Active Directory authentication configuration audit.
+# Impacket is listed for environment compatibility; ticket/hash harvesting is not used.
+
+ldap3>=2.9.1
+rich>=13.7.0
+pyasn1>=0.6.0
+dnspython>=2.6.1
+cryptography>=42.0.0
+impacket>=0.12.0
